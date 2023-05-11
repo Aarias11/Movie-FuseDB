@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Asap+Condensed:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Asap Condensed', sans-serif;
+  }
+
+  
+  
+@import url('https://fonts.googleapis.com/css2?family=Cairo+Play:wght@1000&display=swap');
+
+
+  .title {
+    font-family: 'Cairo Play', sans-serif;
+   
+  }
